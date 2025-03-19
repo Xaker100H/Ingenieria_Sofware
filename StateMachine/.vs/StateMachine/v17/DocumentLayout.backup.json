@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hugo\\Documents\\GITHUB\\planetas\\Ingenieria_Sofware\\StateMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DAF6F6-AA61-4570-91BC-567D25B51D48}|StateMachine\\StateMachine.vcxproj|C:\\Users\\Hugo\\Documents\\GITHUB\\planetas\\Ingenieria_Sofware\\StateMachine\\StateMachine\\StateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4DAF6F6-AA61-4570-91BC-567D25B51D48}|StateMachine\\StateMachine.vcxproj|solutionrelative:StateMachine\\StateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateMachine.cpp",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GITHUB\\planetas\\Ingenieria_Sofware\\StateMachine\\StateMachine\\StateMachine.cpp",
+              "RelativeDocumentMoniker": "StateMachine\\StateMachine.cpp",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GITHUB\\planetas\\Ingenieria_Sofware\\StateMachine\\StateMachine\\StateMachine.cpp",
+              "RelativeToolTip": "StateMachine\\StateMachine.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T20:25:51.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
